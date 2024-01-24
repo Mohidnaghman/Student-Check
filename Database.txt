@@ -1,0 +1,5 @@
+admin,admin123,admin
+user,user123,user
+mohid,mohi123
+Ali,ali123, admin
+zafar,zafar123, adminzaas,sa122, user
